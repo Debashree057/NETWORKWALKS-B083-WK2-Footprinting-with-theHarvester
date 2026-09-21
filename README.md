@@ -233,25 +233,9 @@ It also reinforced the importance of reviewing publicly exposed information from
 ---
 
 # 8. Evidences Collected
-
-The following evidence is included in the repository:
-
-| Evidence | Description |
-| -------- | ----------- |
-| `01-theHarvester-baidu.png` | theHarvester search using Baidu |
-| `02-theHarvester-all-sources.png` | theHarvester multi-source reconnaissance |
-| `03-theHarvester-results.txt` | Saved terminal output from the reconnaissance activity |
-| `04-module-task.pdf` | Networkwalks Project Module 4 task document |
-
-### Evidence Folder
-
-The screenshots and output files are stored in:
-
-```text
-Evidences/
-```
-
-The evidence demonstrates the commands executed and the results obtained during the practical activity.
+(theHarvester.png)
+(microsoft_baidu.png)
+(microsoft_all.png)
 
 ---
 
@@ -260,7 +244,8 @@ The evidence demonstrates the commands executed and the results obtained during 
 ### Debashree Sinha
 
 **Cybersecurity Learner | Building Strong Foundations in Networking, Linux & Python**
-LinkedIn: https://www.linkedin.com/in/debashrees/
+
+[LinkedIn](https://www.linkedin.com/in/debashrees)
 ---
 
 ## Project Information
