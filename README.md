@@ -43,7 +43,6 @@ This project module focused on passive footprinting and reconnaissance using the
 6. [Analysis / Impact](#6-analysis--impact)
 7. [Conclusion](#7-conclusion)
 8. [Evidences Collected](#8-evidences-collected)
-9. [Permission](#9-permission)
 
 ---
 
@@ -233,9 +232,9 @@ It also reinforced the importance of reviewing publicly exposed information from
 ---
 
 # 8. Evidences Collected
-(theHarvester.png)
-(microsoft_baidu.png)
-(microsoft_all.png)
+![theHarvester](theHarvester.png)
+![microsoft using Baidu](microsoft_baidu.png)
+![microsoft using all](microsoft_all.png)
 
 ---
 
